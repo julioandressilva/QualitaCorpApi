@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acind106\\Documents\\Visual Studio 2022\\Projects\\CorePDFReport\\CorePDFReport.csproj": {}
+    "C:\\Users\\acind106\\Documents\\Visual Studio 2022\\Entrega\\Service\\CorePDFReport\\CorePDFReport.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acind106\\Documents\\Visual Studio 2022\\Projects\\CorePDFReport\\CorePDFReport.csproj": {
+    "C:\\Users\\acind106\\Documents\\Visual Studio 2022\\Entrega\\Service\\CorePDFReport\\CorePDFReport.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acind106\\Documents\\Visual Studio 2022\\Projects\\CorePDFReport\\CorePDFReport.csproj",
+        "projectUniqueName": "C:\\Users\\acind106\\Documents\\Visual Studio 2022\\Entrega\\Service\\CorePDFReport\\CorePDFReport.csproj",
         "projectName": "CorePDFReport",
-        "projectPath": "C:\\Users\\acind106\\Documents\\Visual Studio 2022\\Projects\\CorePDFReport\\CorePDFReport.csproj",
+        "projectPath": "C:\\Users\\acind106\\Documents\\Visual Studio 2022\\Entrega\\Service\\CorePDFReport\\CorePDFReport.csproj",
         "packagesPath": "C:\\Users\\acind106\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acind106\\Documents\\Visual Studio 2022\\Projects\\CorePDFReport\\obj\\",
+        "outputPath": "C:\\Users\\acind106\\Documents\\Visual Studio 2022\\Entrega\\Service\\CorePDFReport\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acind106\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,21 +8,17 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CorePDFReport
 build_property.RootNamespace = CorePDFReport
-build_property.ProjectDir = C:\Users\acind106\Documents\Visual Studio 2022\Projects\CorePDFReport\
+build_property.ProjectDir = C:\Users\acind106\Documents\Visual Studio 2022\Entrega\Service\CorePDFReport\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\acind106\Documents\Visual Studio 2022\Projects\CorePDFReport
+build_property.MSBuildProjectDirectory = C:\Users\acind106\Documents\Visual Studio 2022\Entrega\Service\CorePDFReport
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/acind106/Documents/Visual Studio 2022/Projects/CorePDFReport/Views/ClienteInfo.cshtml]
+[C:/Users/acind106/Documents/Visual Studio 2022/Entrega/Service/CorePDFReport/Views/ClienteInfo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZUluZm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/acind106/Documents/Visual Studio 2022/Projects/CorePDFReport/Views/MeseroInfo.cshtml]
+[C:/Users/acind106/Documents/Visual Studio 2022/Entrega/Service/CorePDFReport/Views/MeseroInfo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzZXJvSW5mby5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/acind106/Documents/Visual Studio 2022/Projects/CorePDFReport/Views/UsuarioInfo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb0luZm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
